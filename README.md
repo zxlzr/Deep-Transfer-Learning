@@ -14,12 +14,14 @@
 	- [Caffe](https://github.com/thuml/Xlearn)
 - Deep Transfer Learning with Joint Adaptation Networks (ICML-17)
 	- [Caffe](https://github.com/thuml/Xlearn)
-	
+- Deep Transfer Learning with Joint Adaptation Networks (ICML-17)
+	- [Caffe](https://github.com/thuml/Xlearn)	
+Deep Domain Confusion: Maximizing for Domain Invariance	
 	
 - - -
 #### Target Data: labelled, Source Data: unlabelled
 
-
+Self Taught Learning
 
 
 
@@ -37,12 +39,17 @@
 	- [Caffe(from author)](https://github.com/ddtm/caffe/tree/grl)|[Tensorflow(third party)](https://github.com/shucunt/domain_adaptation)	
 - **ADDA** (Adversarial Discriminative Domain Adaptation, arXiv-17) 
 	- [Python(Tensorflow)](https://github.com/erictzeng/adda)
+- Deep CORAL: Correlation Alignment for Deep Domain Adaptatio (ECCV-16) 
+	- [Python(PyTorch)](https://github.com/SSARCandy/DeepCORAL)|[Matlab](https://github.com/VisionLearningGroup/CORAL)
+- Domain Separation Networks (NIPS-16)	
+	- [Python(Tensorflow)](https://github.com/tensorflow/models/tree/master/research/domain_adaptation)
+- Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks (CVPR-17)	
+	- [Python(Tensorflow)](https://github.com/tensorflow/models/tree/master/research/domain_adaptation)
 	
-- - -
-
 #### Target Data: unlabelled, Source Data: unlabelled
 
 
+Self Taught Clustering
 
 
 
