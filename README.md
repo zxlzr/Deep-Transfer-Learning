@@ -8,7 +8,7 @@
 #### Deep learning
 
 - - -
-###Target Data: labelled, Source Data: labelled 
+#### Target Data: labelled, Source Data: labelled 
 
 - **DAN/JAN** (Deep Adaptation Network/Joint Adaptation Network, ICML-15,17) 
 	- [Caffe](https://github.com/thuml/Xlearn)
@@ -17,7 +17,7 @@
 	
 	
 - - -
-###Target Data: labelled, Source Data: unlabelled
+#### Target Data: labelled, Source Data: unlabelled
 
 
 
@@ -25,7 +25,7 @@
 
 
 - - -
-###Target Data: unlabelled, Source Data: labelled
+#### Target Data: unlabelled, Source Data: labelled
 
 - Domain-Adversarial Training of Neural Networks (JMLR-16)
 	- [Tensorflow](https://github.com/jindongwang/tf-dann)
@@ -40,7 +40,7 @@
 	
 - - -
 
-###Target Data: unlabelled, Source Data: unlabelled
+#### Target Data: unlabelled, Source Data: unlabelled
 
 
 
