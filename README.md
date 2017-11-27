@@ -16,7 +16,9 @@
 	- [Caffe](https://github.com/thuml/Xlearn)
 - Deep Transfer Learning with Joint Adaptation Networks (ICML-17)
 	- [Caffe](https://github.com/thuml/Xlearn)	
-Deep Domain Confusion: Maximizing for Domain Invariance	
+
+	
+One-shot learning	
 	
 - - -
 #### Target Data: labelled, Source Data: unlabelled
@@ -45,6 +47,9 @@ Self Taught Learning
 	- [Python(Tensorflow)](https://github.com/tensorflow/models/tree/master/research/domain_adaptation)
 - Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks (CVPR-17)	
 	- [Python(Tensorflow)](https://github.com/tensorflow/models/tree/master/research/domain_adaptation)
+	
+Zero-shot learning	
+	
 	
 #### Target Data: unlabelled, Source Data: unlabelled
 
