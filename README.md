@@ -47,6 +47,10 @@ Self Taught Learning
 	- [Python(Tensorflow)](https://github.com/tensorflow/models/tree/master/research/domain_adaptation)
 - Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks (CVPR-17)	
 	- [Python(Tensorflow)](https://github.com/tensorflow/models/tree/master/research/domain_adaptation)
+- Deep Hashing Network for Unsupervised Domain Adaptation
+	- [Matlab](https://github.com/hemanthdv/da-hash)
+	
+	
 	
 Zero-shot learning	
 	
