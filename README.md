@@ -12,10 +12,7 @@
 
 - **DAN/JAN** (Deep Adaptation Network/Joint Adaptation Network, ICML-15,17) 
 	- [Caffe](https://github.com/thuml/Xlearn)
-- Deep Transfer Learning with Joint Adaptation Networks (ICML-17)
-	- [Caffe](https://github.com/thuml/Xlearn)
-- Deep Transfer Learning with Joint Adaptation Networks (ICML-17)
-	- [Caffe](https://github.com/thuml/Xlearn)	
+
 
 	
 One-shot learning	
