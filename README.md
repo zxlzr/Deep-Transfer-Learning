@@ -7,6 +7,12 @@
 
 #### When Transfer Learning Meets Deep Learning
 
+Survey
+
+
+- [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/pdf/1702.05374)
+
+
 - - -
 #### Target Data: labelled, Source Data: labelled 
 
