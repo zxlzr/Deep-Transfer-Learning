@@ -12,8 +12,13 @@
 
 - **DAN/JAN** (Deep Adaptation Network/Joint Adaptation Network, ICML-15,17) 
 	- [Caffe](https://github.com/thuml/Xlearn)
-
-
+- Measuring Catastrophic Forgetting in Neural Networks (PNAS-17)
+	- [Tensorflow](https://github.com/ariseff/overcoming-catastrophic)
+- Progressive Neural Networks (arXiv-16)
+	- [Tensorflow](https://github.com/synpon/prog_nn)
+- Evolution Channels Gradient Descent in Super Neural Networks (arXiv-17)
+	- [Tensorflow](https://github.com/jaesik817/pathnet)
+		
 	
 One-shot learning	
 	
