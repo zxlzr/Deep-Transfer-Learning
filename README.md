@@ -10,7 +10,7 @@
 Survey
 
 
-- [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/pdf/1702.05374)
+- [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/abs/1702.05374)
 
 
 - - -
