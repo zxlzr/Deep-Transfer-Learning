@@ -31,7 +31,10 @@ Survey
 	- [Tensorflow](https://github.com/jaesik817/pathnet)
 		
 	
-One-shot learning	
+#### One-shot learning
+
+- One-shot Learning with Memory-Augmented Neural Networks (arXiv-16)
+	- [Theano](https://github.com/tristandeleu/ntm-one-shot)
 	
 - - -
 #### Target Data: labelled, Source Data: unlabelled
