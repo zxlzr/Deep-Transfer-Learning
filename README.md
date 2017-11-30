@@ -55,6 +55,8 @@ Self Taught Learning
 	- [Tensorflow](https://github.com/tensorflow/models/tree/master/research/domain_adaptation)
 - Deep Hashing Network for Unsupervised Domain Adaptation (CVPR-17)	
 	- [Matlab](https://github.com/hemanthdv/da-hash)
+- Deep Transfer Network: Unsupervised Domain Adaptation (arXiv-16)
+	- [Theano](https://github.com/spongezhang/Deep-Transfer-Network)
 
 ##### GAN based  
 
