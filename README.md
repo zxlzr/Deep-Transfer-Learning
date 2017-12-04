@@ -74,7 +74,7 @@ Self Taught Learning
 - Coupled Generative Adversarial Networks (NIPS-16)
 	- [Tensorflow](https://github.com/andrewliao11/CoGAN-tensorflow)|[caffe](https://github.com/mingyuliutw/CoGAN)|[Pytorch](https://github.com/mingyuliutw/CoGAN_PyTorch)
 	
-	
+##### RNN based
 	
 Zero-shot learning	
 	
