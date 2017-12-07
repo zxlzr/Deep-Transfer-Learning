@@ -16,10 +16,12 @@ Survey
 - - -
 #### Target Data: labelled, Source Data: labelled 
 
-#### MMD based
+
 
 - **DAN/JAN** (Deep Adaptation Network/Joint Adaptation Network, ICML-15,17) 
 	- [Caffe](https://github.com/thuml/Xlearn)
+- Learning Multiple Tasks with Multilinear Relationship Networks (NIPS-17)	
+	- [Caffe](https://github.com/thuml/Xlearn)	
 	
 #### Evolution based
 
@@ -60,6 +62,8 @@ Self Taught Learning
 	- [Matlab](https://github.com/hemanthdv/da-hash)
 - Deep Transfer Network: Unsupervised Domain Adaptation (arXiv-16)
 	- [Theano](https://github.com/spongezhang/Deep-Transfer-Network)
+- Joint distribution optimal transportation for domain adaptation (NIPS-17)
+	= [Sklearn](https://github.com/rflamary/JDOT)
 
 ##### GAN based  
 
