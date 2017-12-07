@@ -63,7 +63,7 @@ Self Taught Learning
 - Deep Transfer Network: Unsupervised Domain Adaptation (arXiv-16)
 	- [Theano](https://github.com/spongezhang/Deep-Transfer-Network)
 - Joint distribution optimal transportation for domain adaptation (NIPS-17)
-	= [Sklearn](https://github.com/rflamary/JDOT)
+	- [Sklearn](https://github.com/rflamary/JDOT)
 
 ##### GAN based  
 
