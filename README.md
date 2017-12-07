@@ -64,6 +64,8 @@ Self Taught Learning
 	- [Theano](https://github.com/spongezhang/Deep-Transfer-Network)
 - Joint distribution optimal transportation for domain adaptation (NIPS-17)
 	- [Sklearn](https://github.com/rflamary/JDOT)
+- When Unsupervised Domain Adaptation Meets Tensor Representations (ICCV-17)
+	- [Matlab](https://github.com/poppinace/TAISL)
 
 ##### GAN based  
 
