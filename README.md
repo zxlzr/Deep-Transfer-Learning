@@ -22,6 +22,11 @@ Survey
 	- [Caffe](https://github.com/thuml/Xlearn)
 - Learning Multiple Tasks with Multilinear Relationship Networks (NIPS-17)	
 	- [Caffe](https://github.com/thuml/Xlearn)	
+- Multi-Adversarial Domain Adaptation (AAAI-18)
+	- [Caffe](https://github.com/thuml/Xlearn)	
+- Partial Transfer Learning with Selective Adversarial Networks (arXiv-17)
+	- [Caffe](https://github.com/thuml/Xlearn)	
+	
 - Gradient Episodic Memory for Continual Learning (NIPS-17)
 	- [Pytorch](https://github.com/facebookresearch/GradientEpisodicMemory)
 	
