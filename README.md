@@ -30,22 +30,30 @@ Survey
 	- [Pytorch](https://github.com/facebookresearch/GradientEpisodicMemory)
 - Unified deep supervised domain adaptation and generalization (ICCV-17)
 	- [Keras](https://github.com/samotiian/CCSA)
-	
+- Semi-supervised learning knowledge transfer for deep learning from private training data (ICLR-17)
+	- [Tensorflow](https://github.com/tensorflow/models/tree/master/research/differential_privacy/multiple_teachers)
+- Net2Net: Accelerating Learning via Knowledge Transfer(ICLR-16)
+	- [Tensorflow](https://github.com/paengs/Net2Net)|[Torch](https://github.com/soumith/net2net.torch)|[Numpy](https://github.com/DanielSlater/Net2Net)
+
 #### Evolution based
 
-- Measuring Catastrophic Forgetting in Neural Networks (PNAS-17)
+- Overcoming Catastrophic Forgetting in Neural Networks (PNAS-17)
 	- [Tensorflow](https://github.com/ariseff/overcoming-catastrophic)
 - Progressive Neural Networks (arXiv-16)
 	- [Tensorflow](https://github.com/synpon/prog_nn)
 - Evolution Channels Gradient Descent in Super Neural Networks (arXiv-17)
 	- [Tensorflow](https://github.com/jaesik817/pathnet)
+- PathNet: Evolution Channels Gradient Descent in Super Neural Networks (arxiv-17)
+	- [Tensorflow](https://github.com/jaesik817/pathnet)|[Pytorch](https://github.com/kimhc6028/pathnet-pytorch)
 		
 	
 #### One-shot learning
 
 - One-shot Learning with Memory-Augmented Neural Networks (arXiv-16)
 	- [Theano](https://github.com/tristandeleu/ntm-one-shot)
-	
+
+- Siamese Neural Networks for One-Shot Image Recognition (ICML-15)	
+	- [Keras](https://github.com/sorenbouma/keras-oneshot)
 - - -
 #### Target Data: labelled, Source Data: unlabelled
 
@@ -74,6 +82,8 @@ Self Taught Learning
 	- [Sklearn](https://github.com/rflamary/JDOT)
 - When Unsupervised Domain Adaptation Meets Tensor Representations (ICCV-17)
 	- [Matlab](https://github.com/poppinace/TAISL)
+- Self-ensembling for visual domain adaptation (ICLR-18)
+	- [Theano](https://github.com/Britefury/self-ensemble-visual-domain-adapt)
 
 ##### GAN based  
 
@@ -99,6 +109,17 @@ Zero-shot learning
 Self Taught Clustering
 
 
+- Self-Taught Convolutional Neural Networks for Short Text Clustering (Neural Networks-17)
+	-[matlab](https://github.com/jacoxu/STC2)
+
+
+- - -
+#### Concept Drift
+
+
+-Dynamic Weighted Majority for Incremental Learning of Imbalanced Data Streams with Concept Drift (IJCAI-17)
+	-[matlab](https://github.com/lylylytc/dwmil)
+
 #### Transferability Analysis
 
 - How transferable are features in deep neural networks?
@@ -107,6 +128,10 @@ Self Taught Clustering
 
 - - -
 
+#### Appliactions
+
+-TransNets: Learning to Transform for Recommendation (RecSys-17)
+	-[Tensorflow](https://github.com/rosecatherinek/TransNets)
 
 
 
