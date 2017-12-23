@@ -109,7 +109,7 @@ Self Taught Clustering
 
 
 - Self-Taught Convolutional Neural Networks for Short Text Clustering (Neural Networks-17)
-	- [matlab](https://github.com/jacoxu/STC2)
+	- [Matlab](https://github.com/jacoxu/STC2)
 
 
 - - -
@@ -117,7 +117,7 @@ Self Taught Clustering
 
 
 - Dynamic Weighted Majority for Incremental Learning of Imbalanced Data Streams with Concept Drift (IJCAI-17)
-	- [matlab](https://github.com/lylylytc/dwmil)
+	- [Matlab](https://github.com/lylylytc/dwmil)
 
 #### Transferability Analysis
 
