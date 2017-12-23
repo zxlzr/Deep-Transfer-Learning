@@ -51,7 +51,6 @@ Survey
 
 - One-shot Learning with Memory-Augmented Neural Networks (arXiv-16)
 	- [Theano](https://github.com/tristandeleu/ntm-one-shot)
-
 - Siamese Neural Networks for One-Shot Image Recognition (ICML-15)	
 	- [Keras](https://github.com/sorenbouma/keras-oneshot)
 - - -
@@ -117,7 +116,7 @@ Self Taught Clustering
 #### Concept Drift
 
 
--Dynamic Weighted Majority for Incremental Learning of Imbalanced Data Streams with Concept Drift (IJCAI-17)
+- Dynamic Weighted Majority for Incremental Learning of Imbalanced Data Streams with Concept Drift (IJCAI-17)
 	-[matlab](https://github.com/lylylytc/dwmil)
 
 #### Transferability Analysis
@@ -130,7 +129,7 @@ Self Taught Clustering
 
 #### Appliactions
 
--TransNets: Learning to Transform for Recommendation (RecSys-17)
+- TransNets: Learning to Transform for Recommendation (RecSys-17)
 	-[Tensorflow](https://github.com/rosecatherinek/TransNets)
 
 
