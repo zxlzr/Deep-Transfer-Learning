@@ -99,6 +99,9 @@ Self Taught Learning
 	
 ##### RNN based
 	
+- Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks (ICLR-17)
+	- [Theano](https://github.com/kimiyoung/transfer)
+	
 Zero-shot learning	
 	
 	
