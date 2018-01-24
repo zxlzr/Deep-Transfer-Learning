@@ -85,7 +85,9 @@ Self Taught Learning
 	- [Matlab](https://github.com/poppinace/TAISL)
 - Self-ensembling for visual domain adaptation (ICLR-18)
 	- [Theano](https://github.com/Britefury/self-ensemble-visual-domain-adapt)
-
+- AutoDIAL: Automatic DomaIn Alignment Layers (ICCV-17)
+	- [Caffe](https://github.com/ducksoup/autodial)
+	
 ##### GAN based  
 
 - Unsupervised Domain Adaptation by Backpropagation (ICML-15) 
@@ -136,6 +138,13 @@ Self Taught Clustering
 
 - TransNets: Learning to Transform for Recommendation (RecSys-17)
 	- [Tensorflow](https://github.com/rosecatherinek/TransNets)
+- Empower Sequence Labeling with Task-Aware Neural Language Model (AAAI-18)
+	- [Pytorch](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF)
+- Adversarial Learning For Semi-Supervised Semantic Segmentation (ICLR 2018)
+	- [Pytorch](https://github.com/mohitsharma916/Adversarial-Semisupervised-Semantic-Segmentation)
+- Cross-Domain Sentiment Classification via Topic-Related TrAdaBoost (AAAI-17)
+	- [Keras](https://github.com/xchhuang/cross-domain-sentiment-classification)
+
 
 
 
