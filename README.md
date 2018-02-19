@@ -87,6 +87,10 @@ Self Taught Learning
 	- [Theano](https://github.com/Britefury/self-ensemble-visual-domain-adapt)
 - AutoDIAL: Automatic DomaIn Alignment Layers (ICCV-17)
 	- [Caffe](https://github.com/ducksoup/autodial)
+- Minimal-Entropy Correlation Alignment for Unsupervised Deep Domain Adaptation (ICLR-17)
+	- [Tensorflow](https://github.com/pmorerio/minimal-entropy-correlation-alignment)
+
+	
 	
 ##### GAN based  
 
