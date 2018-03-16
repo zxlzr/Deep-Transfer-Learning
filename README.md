@@ -89,8 +89,8 @@ Self Taught Learning
 	- [Caffe](https://github.com/ducksoup/autodial)
 - Minimal-Entropy Correlation Alignment for Unsupervised Deep Domain Adaptation (ICLR-18)
 	- [Tensorflow](https://github.com/pmorerio/minimal-entropy-correlation-alignment)
-
-	
+- Asymmetric Tri-training for Unsupervised Domain Adaptation (arXiv-17)
+	- [Pytorch](https://github.com/corenel/pytorch-atda)
 	
 ##### GAN based  
 
@@ -104,6 +104,8 @@ Self Taught Learning
 	- [Tensorflow](https://github.com/erictzeng/adda)	
 - Coupled Generative Adversarial Networks (NIPS-16)
 	- [Tensorflow](https://github.com/andrewliao11/CoGAN-tensorflow)|[caffe](https://github.com/mingyuliutw/CoGAN)|[Pytorch](https://github.com/mingyuliutw/CoGAN_PyTorch)
+- Wasserstein Distance Guided Representation Learning for Domain Adaptation (arXiv-17)
+	- [Pytorch](https://github.com/corenel/pytorch-arda)
 	
 ##### RNN based
 	
