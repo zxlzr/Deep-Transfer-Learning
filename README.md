@@ -13,7 +13,7 @@ Survey
 
 - - -
 
-####New Trends 
+#### New Trends 
 
 - GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations 
 
@@ -21,7 +21,7 @@ Survey
 
 - - -
 
-####Distilling Aproach 
+#### Distilling Aproach 
 
 - Distilling the Knowledge in a Neural Network (NIPS-14)
 
