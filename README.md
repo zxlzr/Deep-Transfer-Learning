@@ -1,7 +1,6 @@
 # Deep Transfer Learning
 
 
-
 - - -
 
 
@@ -12,8 +11,26 @@ Survey
 
 - [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/abs/1702.05374)
 
+- - -
+
+####New Trends 
+
+- GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations 
+
+- Learning to Transfer (ICML-18)
 
 - - -
+
+####Distilling Aproach 
+
+- Distilling the Knowledge in a Neural Network (NIPS-14)
+
+- Born Again Neural Networks
+
+- NITE : A Neural Inductive Teaching Framework for Domain-Specific NER (EMNLP-17)
+
+- - -
+
 #### Target Data: labelled, Source Data: labelled 
 
 
@@ -104,7 +121,7 @@ Self Taught Learning
 	- [Tensorflow](https://github.com/erictzeng/adda)	
 - Coupled Generative Adversarial Networks (NIPS-16)
 	- [Tensorflow](https://github.com/andrewliao11/CoGAN-tensorflow)|[caffe](https://github.com/mingyuliutw/CoGAN)|[Pytorch](https://github.com/mingyuliutw/CoGAN_PyTorch)
-- Wasserstein Distance Guided Representation Learning for Domain Adaptation (arXiv-17)
+- Wasserstein Distance Guided Representation Learning for Domain Adaptation (AAAI-18)
 	- [Pytorch](https://github.com/corenel/pytorch-arda)
 	
 ##### RNN based
@@ -136,7 +153,23 @@ Self Taught Clustering
 
 - How transferable are features in deep neural networks?
 
+- - -
 
+#### Transfer Learning for NLP
+
+- Adversarial Multi-task Learning for Text Classification (ACL-17)
+
+- Same Representation, Different Attentions: Shareable Sentence Representation Learning from Multiple Tasks (IJCAI-18)
+
+- Cross-Domain Sentiment Classification with Target Domain Specific Information (ACL-18)
+
+- Transfer Learning for Context-Aware Question Matching in Information-seeking Conversations in E-commerce (ACL-18)
+
+- Universal Language Model Fine-tuning for Text Classificatione (ACL-18)
+
+- Improving Language Understanding by Generative Pre-Training 
+
+- Universal Sentence Encoder
 
 - - -
 
