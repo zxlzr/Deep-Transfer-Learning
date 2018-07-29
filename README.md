@@ -123,6 +123,9 @@ Self Taught Learning
 	- [Tensorflow](https://github.com/andrewliao11/CoGAN-tensorflow)|[caffe](https://github.com/mingyuliutw/CoGAN)|[Pytorch](https://github.com/mingyuliutw/CoGAN_PyTorch)
 - Wasserstein Distance Guided Representation Learning for Domain Adaptation (AAAI-18)
 	- [Pytorch](https://github.com/corenel/pytorch-arda)
+- Cross-Domain Self-supervised Multi-task Feature Learning using Synthetic Imagery (CVPR-18)
+	- [Pytorch](https://github.com/jason718/game-feature-learning)	
+	
 	
 ##### RNN based
 	
