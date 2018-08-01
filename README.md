@@ -19,6 +19,18 @@ Survey
 
 - Learning to Transfer (ICML-18)
 
+#### Unbalanced Transfer 
+
+- Re-weighted Adversarial Adaptation Network for Unsupervised Domain Adaptation (CVPR-18)
+
+- Deep Asymmetric Transfer Network for Unbalanced Domain Adaptation (AAAI-18)
+
+- Importance Weighted Adversarial Nets for Partial Domain Adaptation (CVPR-18)
+
+- Partial Transfer Learning with Selective Adversarial Networks (CVPR-18)
+
+- Partial Adversarial Domain Adaptation (ECCV-18)
+
 - - -
 
 #### Distilling Aproach 
