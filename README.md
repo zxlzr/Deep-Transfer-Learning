@@ -37,7 +37,7 @@ Survey
 
 - Distilling the Knowledge in a Neural Network (NIPS-14)
 
-- Born Again Neural Networks
+- Born Again Neural Networks (ICML-18)
 
 - NITE : A Neural Inductive Teaching Framework for Domain-Specific NER (EMNLP-17)
 
@@ -122,6 +122,8 @@ Self Taught Learning
 	- [Pytorch](https://github.com/corenel/pytorch-atda)
 	
 ##### GAN based  
+
+- Learning Semantic Representations for Unsupervised Domain Adaptation (ICML-18)
 
 - Unsupervised Domain Adaptation by Backpropagation (ICML-15) 
 	- [Caffe(from author)](https://github.com/ddtm/caffe/tree/grl)|[Tensorflow(third party)](https://github.com/shucunt/domain_adaptation)
