@@ -19,6 +19,8 @@ Survey
 
 - Learning to Transfer (ICML-18)
 
+- Label Efficient Learning of Transferable Representations across Domains and Tasks (NIPS-17)
+
 #### Unbalanced Transfer 
 
 - Re-weighted Adversarial Adaptation Network for Unsupervised Domain Adaptation (CVPR-18)
