@@ -1,5 +1,6 @@
 # Deep Transfer Learning
 
+Contributed by [Ningyu Zhang](https://zxlzr.github.io/).
 
 - - -
 
